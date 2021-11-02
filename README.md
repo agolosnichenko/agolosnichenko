@@ -11,11 +11,11 @@
   <img src="https://easycoders.ru/assets/badges/python.png" alt="Python" width="100"/>
   <img src="https://easycoders.ru/assets/badges/typescript.png" alt="TypeScript" width="100"/>
   <img src="https://easycoders.ru/assets/badges/go.png" alt="Go" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/nodejs.png" alt="Node.js" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/nodejs.png?update=2" alt="Node.js" width="100"/>
   <img src="https://easycoders.ru/assets/badges/django.png" alt="Django" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/graphql.png" alt="GraphQL" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/nestjs.png" alt="Nestjs" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/react.png" alt="React" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/graphql.png?update=2" alt="GraphQL" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/nestjs.png?update=2" alt="Nestjs" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/react.png?update=2" alt="React" width="100"/>
   <img src="https://easycoders.ru/assets/badges/redux.png" alt="Redux" width="100"/>
   <img src="https://easycoders.ru/assets/badges/sass.png" alt="Sass" width="100"/>
   <img src="https://easycoders.ru/assets/badges/firebase.png" alt="Firebase" width="100"/>
