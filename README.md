@@ -7,7 +7,7 @@
 
 ### Мой стэк:
 <div style="text-align: left">
-  <img src="https://easycoders.ru/assets/badges/JS.png?update=1" alt="JavaScript" width="100"/>
+  <img src="https://easycoders.ru/assets/badges/JS.png?update=2" alt="JavaScript" width="100"/>
   <img src="https://easycoders.ru/assets/badges/python.png" alt="Python" width="100"/>
   <img src="https://easycoders.ru/assets/badges/typescript.png" alt="TypeScript" width="100"/>
   <img src="https://easycoders.ru/assets/badges/go.png" alt="Go" width="100"/>
