@@ -2,7 +2,7 @@
 
 ### Чем я занимаюсь:
 
-- [x] Директор по технологиям в [Artics Internet Solutions](https://artics.ru/)
+- [x] Ex-CTO в [Artics Internet Solutions](https://artics.ru/)
 - [x] Создатель [ИзиКодерс](https://easycoders.ru)
 
 ### Мой стэк:
