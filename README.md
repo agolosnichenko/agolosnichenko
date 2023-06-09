@@ -7,20 +7,20 @@
 
 ### Мой стэк:
 <div style="text-align: left">
-  <img src="https://easycoders.ru/assets/badges/JS.webp" alt="JavaScript" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/python.webp" alt="Python" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/typescript.webp" alt="TypeScript" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/go.webp" alt="Go" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/nodejs.webp" alt="Node.js" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/django.webp" alt="Django" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/graphql.webp" alt="GraphQL" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/nestjs.webp" alt="Nestjs" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/react.webp" alt="React" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/redux.webp" alt="Redux" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/sass.png" alt="Sass" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/firebase.webp" alt="Firebase" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/tailwind.webp" alt="Tailwindcss" width="100"/>
-  <img src="https://easycoders.ru/assets/badges/iosAndroid.png" alt="Ios & Android" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/JS.webp" alt="JavaScript" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/python.webp" alt="Python" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/typescript.webp" alt="TypeScript" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/go.webp" alt="Go" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/nodejs.webp" alt="Node.js" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/django.webp" alt="Django" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/graphql.webp" alt="GraphQL" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/nestjs.webp" alt="Nestjs" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/react.webp" alt="React" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/redux.webp" alt="Redux" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/sass.png" alt="Sass" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/firebase.webp" alt="Firebase" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/tailwind.webp" alt="Tailwindcss" width="100"/>
+  <img src="https://storage.yandexcloud.net/easycoders-uploads/badges/iosAndroid.png" alt="Ios & Android" width="100"/>
 </div>
 
 
@@ -29,7 +29,6 @@
 
 - [Телеграм](https://t.me/agolosnichenko)
 - [Фейсбук](https://www.facebook.com/agolosnichenko/)
-- [Почта](mailto:anton@easycoders.ru)
 
 <!--
 
