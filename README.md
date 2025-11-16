@@ -1,53 +1,103 @@
-<div align="center">
-  
-# Hi there! I'm Anton 👋
+# Anton Golosnichenko
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=Head+of+Engineering;TravelTech+%26+MarTech+Expert;AI+Innovation+Leader;Welcome+to+my+GitHub!" alt="Typing SVG" />
+**Fractional CTO & Technical Leader** | Building scalable systems and engineering teams
 
-</div>
+Former founder, current Engineering Manager, recovering fullstack developer who still enjoys debugging production at 3am.
 
-## 🚀 About Me
+---
 
-I am a seasoned engineering leader specializing in TravelTech and MarTech solutions. Currently serving as Head of Engineering at Vacayou, I drive technical strategy and innovation across our platform ecosystem. My expertise spans from architecting scalable systems to implementing cutting-edge AI solutions that enhance user experiences and business outcomes.
+## 👨‍💻 About Me
 
-- 🏢 Head of Engineering at Vacayou
-- 🌍 TravelTech and MarTech domain expert
-- 🤖 AI innovation and implementation specialist
-- 🏗️ Enterprise-scale architecture and engineering leadership
-- 📈 Focused on driving business growth through technology excellence
+I'm a hands-on technical leader with 12+ years building and scaling products across MarTech, AdTech, TravelTech, EdTech, FinTech, and E-commerce.
 
-## 🛠️ Tech Stack
+**Current:** Head of Engineering at [Vacayou](https://github.com/Vacayou) (traveltech) — leading migration from monolith to modular architecture
 
-<div align="center">
+**Past:**
+- Built tech department at **[Artics](https://artics.ru)** (one of Russia's leading digital marketing agencies, $80M+ revenue) from 2 engineers to 12
+- Founded an edtech startup [EasyCoders](https://github.com/easycoders-academy)
+- CTO experience in adtech/martech
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+I've architected systems at enterprise scale and bootstrapped MVPs on tight budgets. I know when to over-engineer and when to ship duct tape.
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+---
 
-</div>
+## 🛠 Tech Stack
 
-## 📈 Activity Graph
+**Languages & Frameworks:**
+- JavaScript/TypeScript (Node.js, React)
+- C# / .NET Core
+- SQL (PostgreSQL, MS SQL)
 
-<div align="center">
-  
-[![Anton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agolosnichenko&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Architecture & Patterns:**
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Microservices & Modular Monoliths
+- Event-Driven Architecture
 
-</div>
+**ML/AI:**
+- Recommendation engines
+- Bid optimization algorithms
+- Multi-armed bandits for A/B testing
+- Data pipelines at scale
 
-## 🤝 Connect with Me
+**DevOps & Cloud:**
+- AWS / Google Cloud / Azure
+- CI/CD pipelines
+- Infrastructure as Code
+- Monitoring & observability
 
-<div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/agolosnichenko)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/agolosnichenko/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anton-golosnichenko)
+---
 
-</div>
+## 🚀 What I've Built
+
+**At Scale:**
+- Migrated legacy monolith to modular architecture (zero downtime, ongoing)
+- Built AI-driven ad optimization systems (recommendation engines, bid optimization)
+- Scaled engineering teams 6x while maintaining code quality and culture
+- Designed data pipelines processing millions of events daily
+
+**From Scratch:**
+- MVPs that survived first contact with users and scaled to thousands
+- Engineering hiring frameworks (from 2 to 30+ people)
+- Technical architectures that grew from prototype to production
+
+---
+
+## 💼 Fractional CTO Services
+
+I help growth-stage startups (pre-seed to Series A+) scale their product and engineering teams without the chaos.
+
+**What I do:**
+- Architecture decisions that scale (but don't over-engineer)
+- Build/scale engineering teams 3→10→30+ people
+- Technical debt management and prioritization
+- AI/ML integration for real business value
+- Prepare for fundraising & technical due diligence
+- Code reviews, mentoring, hands-on debugging when needed
+
+**Industries:** MarTech, AdTech, TravelTech, EdTech, FinTech, E-commerce
+
+**Available for:** Growth CTO & Scale CTO engagements (10-20 hrs/week)
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 Website: [coming soon]
+- 📅 [Book a discovery call](https://cal.com/agolosnichenko/discovery30min)
+- 💼 [LinkedIn](https://linkedin.com/in/agolosnichenko)
+- 📍 Working with startups across US, EU, APAC
+
+---
+
+### 🎯 Philosophy
+
+> "Perfect is the enemy of shipped. But shipped without architecture is the enemy of scale."
+
+I believe in:
+- Clean code that other humans can read
+- Architecture that evolves, not rewrites
+- Teams that own outcomes, not tasks
+- Decisions documented in ADRs, not tribal knowledge
+- Shipping fast, but not recklessly
 
