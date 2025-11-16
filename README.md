@@ -77,7 +77,12 @@ I help growth-stage startups (pre-seed to Series A+) scale their product and eng
 
 **Industries:** MarTech, AdTech, TravelTech, EdTech, FinTech, E-commerce
 
-**Available for:** Growth CTO & Scale CTO engagements (10-20 hrs/week)
+---
+
+## 💼 Currently Open To
+
+**Fractional CTO:** Growth & Scale stage engagements (10-20 hrs/week)  
+**Full-time:** CTO/VP Engineering roles at ambitious startups (Series A+)
 
 ---
 
@@ -90,6 +95,7 @@ I help growth-stage startups (pre-seed to Series A+) scale their product and eng
 
 ---
 
+
 ### 🎯 Philosophy
 
 > "Perfect is the enemy of shipped. But shipped without architecture is the enemy of scale."
@@ -100,4 +106,3 @@ I believe in:
 - Teams that own outcomes, not tasks
 - Decisions documented in ADRs, not tribal knowledge
 - Shipping fast, but not recklessly
-
