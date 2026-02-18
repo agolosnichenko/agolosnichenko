@@ -10,9 +10,8 @@ Former founder, current Engineering Manager, recovering fullstack developer who 
 
 I'm a hands-on technical leader with 12+ years building and scaling products across MarTech, AdTech, TravelTech, EdTech, FinTech, and E-commerce.
 
-**Current:** Head of Engineering at [Vacayou](https://github.com/Vacayou) (traveltech) — leading migration from monolith to modular architecture
-
 **Past:**
+- Head of Engineering at Vacayou (traveltech)
 - Built tech department at **[Artics](https://artics.ru)** (one of Russia's leading digital marketing agencies, $80M+ revenue) from 2 engineers to 12
 - Founded an edtech startup [EasyCoders](https://github.com/easycoders-academy)
 - CTO experience in adtech/martech
