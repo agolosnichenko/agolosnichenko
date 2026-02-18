@@ -84,7 +84,7 @@ I help growth-stage startups (pre-seed to Series A+) scale their product and eng
 
 - 🌐 [Website](https://golosnichenko.com)
 - 📅 [Book a discovery call](https://cal.com/agolosnichenko/discovery30min)
-- 💼 [LinkedIn](https://linkedin.com/in/agolosnichenko)
+- 💼 [LinkedIn](https://linkedin.com/in/anton-golosnichenko)
 - ✉️ Email: anton@golosnichenko.com
 - 📍 Working with startups across US, EU, APAC
 
